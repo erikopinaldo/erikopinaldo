@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erik</h1>
 <h3 align="center">A passionate frontend developer from Toronto</h3>
 
-- 🔭 I’m currently working on [clickanywhere](https://github.com/evoh2oh/clickanywhere)
+- 🔭 I’m currently working on [Keyfigurator](https://github.com/evoh2oh/keyfigurator)
 
 - 🌱 I’m currently learning **Node**
 
