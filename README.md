@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Keyfigurator](https://github.com/erikopinaldo/keyfigurator)
 
-- 🌱 I’m currently learning **Node**
-
 - 📫 How to reach me **erikopinaldo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
