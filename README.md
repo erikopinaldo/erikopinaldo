@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erik</h1>
 <h3 align="center">A passionate full-stack developer from Toronto</h3>
 
-- 🔭 I’m currently working on [Keyfigurator](https://github.com/erikopinaldo/keyfigurator)
+- 🔭 I’m currently working on [a Slack/Discord clone](https://github.com/erikopinaldo/slack-clone)
 
 - 📫 How to reach me **erikopinaldo@gmail.com**
 
